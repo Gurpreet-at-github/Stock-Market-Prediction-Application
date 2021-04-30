@@ -1,0 +1,2 @@
+# Stock-Market-Prediction-Application
+The project primarily focuses on predicting and comparing the stock values of 21 Tech Giants. The stock predictions are based on previous stock performances showed by companies. Technologies used in the application are Machine Learning, Python and Knowledge of concepts such as Regression Model, Sharpe ratio, Bollinger Bands, Beta coefficient, etc. The estimations of the project are 67% accurate as compared to the current stocks status.
